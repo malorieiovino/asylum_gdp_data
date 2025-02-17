@@ -19,7 +19,7 @@ This project explores the relationship between **USCIS I-589 asylum applications
 
 ## 📓 Jupyter Notebook  
 🚀 [View Notebook on nbviewer](https://nbviewer.org/github/malorieiovino/asylum_gdp_data/blob/main/Data%20Programming%20Final%20Project-Copy1.ipynb)  
-📂 [View Notebook on GitHub](https://github.com/malorieiovino/YOUR-REPO/blob/main/YOUR-NOTEBOOK.ipynb)  
+📂 [View Notebook on GitHub](https://github.com/malorieiovino/asylum_gdp_data/blob/main/Data%20Programming%20Final%20Project-Copy1.ipynb) 
 
 ## 📜 License  
-This project is for educational purposes only.  
+This project is for educational purposes only. It was a final project for a Data Programming Class 
