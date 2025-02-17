@@ -18,7 +18,7 @@ This project explores the relationship between **USCIS I-589 asylum applications
 - **Statistical Analysis:** Correlation between GDP & asylum trends  
 
 ## 📓 Jupyter Notebook  
-🚀 [View Notebook on nbviewer](PASTE_NBVIEWER_LINK_HERE)  
+🚀 [View Notebook on nbviewer](https://nbviewer.org/github/malorieiovino/asylum_gdp_data/blob/main/Data%20Programming%20Final%20Project-Copy1.ipynb)  
 📂 [View Notebook on GitHub](https://github.com/malorieiovino/YOUR-REPO/blob/main/YOUR-NOTEBOOK.ipynb)  
 
 ## 📜 License  
